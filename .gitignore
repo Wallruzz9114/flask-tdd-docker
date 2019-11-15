@@ -2,3 +2,4 @@
 __pycache__
 env
 project/__pycache__
+project/tests/.pytest_cache
